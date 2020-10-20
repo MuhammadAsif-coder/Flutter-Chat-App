@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "728243263353",
+    "firebase_url": "https://fir-practiceapp-c338b.firebaseio.com",
+    "project_id": "fir-practiceapp-c338b",
+    "storage_bucket": "fir-practiceapp-c338b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:728243263353:android:9c0301e9b9fe11111281a8",
+        "android_client_info": {
+          "package_name": "com.example.chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "728243263353-pgimi4h72omdofaso3burlo95sf35uan.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD18iE3agUopmm6V06gDCECxlgkHqYniwk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "728243263353-pgimi4h72omdofaso3burlo95sf35uan.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
