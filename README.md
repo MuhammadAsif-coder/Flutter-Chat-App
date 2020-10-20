@@ -1,4 +1,4 @@
-# chat_app
+# Flutter_chat_app
 
 A new Flutter project.
 
@@ -14,3 +14,9 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+# Screens of Flutter_Chat_App
+![IMG_20201020_111618](https://user-images.githubusercontent.com/56240820/96552200-dfa9af00-12cc-11eb-9138-01303acb6f46.jpg)
+![IMG_20201020_111456](https://user-images.githubusercontent.com/56240820/96552210-e2a49f80-12cc-11eb-9845-cdff7473fa29.jpg)
+![IMG_20201020_111632](https://user-images.githubusercontent.com/56240820/96552206-e1737280-12cc-11eb-9203-1df22ec51682.jpg)
+![IMG_20201020_111653](https://user-images.githubusercontent.com/56240820/96552208-e20c0900-12cc-11eb-8889-9cdd51fa66dd.jpg)
